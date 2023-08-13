@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-jain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-jain-dev" /> </p> 
 
-## <picture><img src = "https://github.com/arvindpndit/arvindpndit/blob/main/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/aditya-jain-dev/aditya-jain-dev/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
@@ -39,13 +39,13 @@ Let's work together to build exceptional web applications!
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/arvindpndit/arvindpndit/blob/main/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/aditya-jain-dev/aditya-jain-dev/blob/main/handshake.gif" width ="80">
 <p align="left">
 <a href="https://linkedin.com/in/aditya-jain-6497a0240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-jain-6497a0240" height="30" width="40" /></a>
 <a href="https://medium.com/@h4ck3raditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@h4ck3raditya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adityajain_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityajain_cse" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/coder_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coder_aditya" height="30" width="40" /></a>
-<a href="mailto:adityajain98@proton.me" target="blank"><img align="center" src="https://icons8.com/icon/13826/email" alt="proton_mail" height="30" width="40" /></a>
+<a href="mailto:adityajain98@proton.me" target="blank"><img align="center" src="https://github.com/aditya-jain-dev/aditya-jain-dev/blob/main/icons8-email-48.png" alt="proton_mail" width="40" /></a>
 </p>
 
 <br>
