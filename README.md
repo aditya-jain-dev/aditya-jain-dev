@@ -18,7 +18,7 @@
 
 <a href="https://cal.com/aditya-jain"><img src="https://img.shields.io/badge/📅_Book_a_15--min_Call-00D9FF?style=for-the-badge&logoColor=black&labelColor=00D9FF" height="38" /></a>
 &nbsp;
-<a href="mailto:adityajain98@proton.me?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/✉️_Email_Me-6D4AFF?style=for-the-badge&logoColor=white" height="38" /></a>
+<a href="mailto:adityajain221198@gmail.com?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/✉️_Email_Me-6D4AFF?style=for-the-badge&logoColor=white" height="38" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/aditya-jain-6497a0240"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" /></a>
 
@@ -162,7 +162,7 @@ Tell me the problem. I'll tell you honestly whether I'm the right person for it.
 
 <a href="https://cal.com/aditya-jain"><img src="https://img.shields.io/badge/📅_Book_a_15--min_Call-00D9FF?style=for-the-badge&logoColor=black" height="42" /></a>
 &nbsp;
-<a href="mailto:adityajain98@proton.me?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/✉️_adityajain98@proton.me-6D4AFF?style=for-the-badge&logoColor=white" height="42" /></a>
+<a href="mailto:adityajain221198@gmail.com?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/✉️_adityajain221198@gmail.com-6D4AFF?style=for-the-badge&logoColor=white" height="42" /></a>
 
 <br/><br/>
 
