@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 52" width="760" height="52" role="img" aria-label="I ship production systems, not prototypes. / Multi-tenant SaaS built to scale. / 3+ years owning stacks end to end. / Available for freelance work right now.">
+  <defs>
+    <style>.t{font-family:'Fira Code','SF Mono',Menlo,Consolas,monospace;font-size:21px;font-weight:600;fill:#00D9FF}</style>
+    <clipPath id="c0"><rect x="115.4" y="0" height="60" width="0">
+      <animate attributeName="width" values="0;529.2;529.2" keyTimes="0;0.1050;1"
+               dur="16.8s" repeatCount="indefinite" begin="0s"/>
+    </rect></clipPath>
+    <clipPath id="c1"><rect x="172.1" y="0" height="60" width="0">
+      <animate attributeName="width" values="0;415.8;415.8" keyTimes="0;0.3550;1"
+               dur="16.8s" repeatCount="indefinite" begin="0s"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="165.8" y="0" height="60" width="0">
+      <animate attributeName="width" values="0;428.4;428.4" keyTimes="0;0.6050;1"
+               dur="16.8s" repeatCount="indefinite" begin="0s"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="134.3" y="0" height="60" width="0">
+      <animate attributeName="width" values="0;491.4;491.4" keyTimes="0;0.8550;1"
+               dur="16.8s" repeatCount="indefinite" begin="0s"/>
+    </rect></clipPath>
+  </defs>
+  <g opacity="0">
+    <animate attributeName="opacity" values="1;0;0;0" keyTimes="0.0000;0.2500;0.5000;0.7500"
+             calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    <g clip-path="url(#c0)">
+      <text x="115.4" y="34" class="t">I ship production systems, not prototypes.</text>
+    </g>
+    <rect y="16" width="2.5" height="24" fill="#00D9FF" x="115.4">
+      <animate attributeName="x" values="115.4;644.6;644.6" keyTimes="0;0.1050;1"
+               dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.34;0.67;1"
+               dur="1.05s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.0000;0.2500;0.5000;0.7500"
+             calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    <g clip-path="url(#c1)">
+      <text x="172.1" y="34" class="t">Multi-tenant SaaS built to scale.</text>
+    </g>
+    <rect y="16" width="2.5" height="24" fill="#00D9FF" x="172.1">
+      <animate attributeName="x" values="172.1;587.9;587.9" keyTimes="0;0.3550;1"
+               dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.34;0.67;1"
+               dur="1.05s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0" keyTimes="0.0000;0.2500;0.5000;0.7500"
+             calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    <g clip-path="url(#c2)">
+      <text x="165.8" y="34" class="t">3+ years owning stacks end to end.</text>
+    </g>
+    <rect y="16" width="2.5" height="24" fill="#00D9FF" x="165.8">
+      <animate attributeName="x" values="165.8;594.2;594.2" keyTimes="0;0.6050;1"
+               dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.34;0.67;1"
+               dur="1.05s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;0;1" keyTimes="0.0000;0.2500;0.5000;0.7500"
+             calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    <g clip-path="url(#c3)">
+      <text x="134.3" y="34" class="t">Available for freelance work right now.</text>
+    </g>
+    <rect y="16" width="2.5" height="24" fill="#00D9FF" x="134.3">
+      <animate attributeName="x" values="134.3;625.7;625.7" keyTimes="0;0.8550;1"
+               dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;0.34;0.67;1"
+               dur="1.05s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+</svg>

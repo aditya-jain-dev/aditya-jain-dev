@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="presentation">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2C5364"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#0F2027"/>
+    </linearGradient>
+    <clipPath id="fclip"><rect width="1000" height="130" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#fclip)">
+    <rect width="1000" height="130" fill="url(#fbg)"/>
+    <path d="M-1000 42 q125 -24 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V130 H-1000 Z" fill="#00D9FF" fill-opacity="0.10">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <text x="500" y="88" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#7FD8EE" letter-spacing="2">BUILT TO SURVIVE PRODUCTION</text>
+  </g>
+</svg>
